@@ -1,4 +1,4 @@
-# Triangles Count Test [![Build Status](https://travis-ci.org/fenow/TriangleCount.svg?branch=master)](https://travis-ci.org/fenow/TriangleCount)
+# TriCount [![Build Status](https://travis-ci.org/fenow/TriangleCount.svg?branch=master)](https://travis-ci.org/fenow/TriangleCount)
 
 
 We are interested in triangles that have integer length sides, all of which are between minLength and maxLength, inclusive.
