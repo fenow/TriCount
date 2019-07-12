@@ -1,0 +1,13 @@
+{
+  "name": "triangle-count",
+  "version": "0.0.1",
+  "description": "",
+  "author": "FRIGERIO Matthieu <matth.frigerio@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "6.1.4"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha tests/TriCount.spec.js"
+  }
+}
